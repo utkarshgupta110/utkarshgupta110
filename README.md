@@ -94,12 +94,15 @@ Currently seeking opportunities as:
 # 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkarshgupta110&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=utkarshgupta110&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=utkarshgupta110&show_icons=true&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshgupta110&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=utkarshgupta110&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=utkarshgupta110&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
